@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color:rgba(199, 164, 255, 0.762);
+}
+
+h3{
+    color: rgb(104, 87, 231);
+    text-shadow: 1px 1px black;
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.input-text{
+    outline-color:rgb(246, 81, 227);
+    background-color:rgb(255,203,249) ;
+    border:4px solid rgb(202, 32, 182) ;
+    height: 500px;
+    width:600px ;
+    font-size: 20px;
+    color: rgb(115, 99, 240);
+    font-weight: 500;
+}
+
+.output-text{
+    outline-color:rgb(246, 81, 227);
+    background-color:rgb(255,203,249) ;
+    border:4px solid rgb(202, 32, 182) ;
+    height: 500px;
+    width:600px ;
+    font-size: 20px;
+    color: rgb(115, 99, 240);
+    font-weight: 500;
+
+}
